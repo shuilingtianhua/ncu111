@@ -1,0 +1,1551 @@
+.nav {
+	width: 1800px;
+	height: 81px;
+	background-color: #0B1E28;
+	position: relative;
+	margin: 0%;
+}
+
+.a1 {
+	width: 66px;
+	height: 59px;
+	position: absolute;
+	top: 12px;
+	left: 208px;
+	background-image: url(../img/南昌大学图标.png);
+	background-size: 100% 100%;
+}
+
+.aa {
+	color: #ffffff;
+	font-family: "Inter";
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	position: absolute;
+	top: 31px;
+	left: 308px;
+}
+.aa:hover{
+	color: #1989FA;
+	text-decoration: underline;
+}
+.a2 {
+	color: #ffffff;
+	font-family: "Inter";
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	position: absolute;
+	top: 31px;
+	left: 356px;
+}
+.a2:hover{
+	color: #1989FA;
+	text-decoration: underline;
+}
+.a3 {
+	color: #ffffff;
+	font-family: "Inter";
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	position: absolute;
+	top: 31px;
+	left: 404px;
+}
+.a3:hover{
+	color: #1989FA;
+	text-decoration: underline;
+}
+.a4 {
+	color: #ffffff;
+	font-family: "Inter";
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	position: absolute;
+	top: 31px;
+	left: 452px;
+}
+.a4:hover{
+	color: #1989FA;
+	text-decoration: underline;
+}
+.a5 {
+	width: 563px;
+	height: 59px;
+	border-radius: 10px;
+	background: #FFF;
+	position: absolute;
+	top: 11px;
+	left: 843px;
+}
+.b {
+	width: 10px;
+	height: 59px;
+	position: absolute;
+	left: 462px;
+}
+
+.c {
+	width: 563px;
+	height: 59px;
+	color: #a09797;
+	font-family: "Inter";
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+
+.a7 {
+	width: 143px;
+	height: 59px;
+	border-radius: 10px;
+	background: #1989FA;
+	position: absolute;
+	top: 11px;
+	left: 1450px;
+}
+
+.a8 {
+	width: 143px;
+	height: 59px;
+	background-color: #1989FA;
+	border-radius: 10px;
+}
+
+.picture {
+	width: 1383px;
+	height: 397px;
+	background-color: white;
+	position: absolute;
+	top: 116px;
+	left: 208.5px;
+	background-image: url(../img/南昌大学.png);
+	background-size: 100% 100%;
+}
+
+.qt1 {
+	width: 33px;
+	height: 33px;
+	position: absolute;
+	top: 182px;
+	flex-shrink: 0;
+	color: #c7bbbb;
+	font-family: "Inter";
+	font-size: 50px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+
+.qt2 {
+	width: 33px;
+	height: 33px;
+	position: absolute;
+	top: 182px;
+	left: 1350px;
+	flex-shrink: 0;
+	color: #c7bbbb;
+	font-family: "Inter";
+	font-size: 50px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+
+.header {
+	width: 1383px;
+	height: 1412px;
+	background-color: #FFF;
+	position: absolute;
+	top: 548px;
+	left: 208.5px;
+}
+
+.h1 {
+	display: flex;
+	width: 101px;
+	height: 39px;
+	flex-direction: column;
+	justify-content: center;
+	flex-shrink: 0;
+	color: #000000;
+	font-family: "Inter";
+	font-size: 25px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	position: absolute;
+	top: 13px;
+	left: 23px;
+}
+
+.hh {
+	width: 50px;
+	height: 30px;
+	color: #000000;
+	font-family: "Inter";
+	font-size: 25px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	position: absolute;
+	top: 13px;
+	left: 182px;
+}
+.hh:hover{
+	color: #1989fa;
+	text-decoration: underline;
+}
+.h2 {
+	display: flex;
+	width: 54px;
+	height: 19px;
+	flex-direction: column;
+	justify-content: center;
+	flex-shrink: 0;
+	color: #000000;
+	font-family: "Inter";
+	font-size: 25px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	position: absolute;
+	top: 18.5px;
+	left: 267px;
+}
+.h2:hover{
+	color: #1989fa;
+	text-decoration: underline;
+}
+.h3 {
+	color: #000000;
+	font-family: "Inter";
+	font-size: 25px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	position: absolute;
+	top: 13px;
+	left: 356px;
+}
+.h3:hover{
+	color: #1989fa;
+	text-decoration: underline;
+}
+.h4 {
+	width: 51px;
+	flex-shrink: 0;
+	color: #000000;
+	font-family: "Inter";
+	font-size: 25px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	position: absolute;
+	top: 13px;
+	left: 441px;
+}
+.h4:hover{
+	color: #1989fa;
+	text-decoration: underline;
+}
+.h5 {
+	width: 102px;
+	flex-shrink: 0;
+	color: #000000;
+	font-family: "Inter";
+	font-size: 25px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	position: absolute;
+	top: 13px;
+	left: 527px;
+}
+.h5:hover{
+	color: #1989fa;
+	text-decoration: underline;
+}
+.h {
+	width: 1383px;
+	height: 70px;
+	border-bottom: 1px solid gray;
+}
+
+.t {
+	width: 1360px;
+	height: 177px;
+	background-color: white;
+	position: absolute;
+	top: 84px;
+	left: 23px;
+}
+
+.t1 {
+	width: 53px;
+	height: 53px;
+	background-image: url(../img/11.png);
+	background-size: 100% 100%;
+}
+
+.t2 {
+	color: #000000;
+	font-family: "Inter";
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	position: absolute;
+	left: 77px;
+}
+
+.t3 {
+	width: 173px;
+	height: 17px;
+	color: #000000;
+	font-family: "Inter";
+	font-size: 14px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	position: absolute;
+	top: 27px;
+	left: 77px;
+}
+
+.t4 {
+	color: #000000;
+	font-family: "Inter";
+	font-size: 25px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	position: absolute;
+	top: 59px;
+}
+
+.t5 {
+	width: 484px;
+	height: 38px;
+	position: absolute;
+	top: 95px;
+}
+
+.t5 .t6 {
+	color: #000000;
+	font-family: "Inter";
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+
+.t5 .t7 {
+	color: #1989fa;
+	font-family: "Inter";
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+
+.t8 {
+	width: 24px;
+	height: 24px;
+	background-image: url(../img/dz.png);
+	background-size: 100% 100%;
+	position: absolute;
+	top: 139px;
+}
+
+.t9 {
+	width: 40px;
+	color: #1989fa;
+	font-family: "Inter";
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	position: absolute;
+	top: 139px;
+	left: 30px;
+}
+
+.t10 {
+	width: 24px;
+	height: 24px;
+	flex-shrink: 0;
+	opacity: 0.5;
+	background-image: url(../img/dx.png);
+	background-size: 100% 100%;
+	position: absolute;
+	top: 141px;
+	left: 94px;
+}
+.t11{
+	 width: 39px;
+	 height: 24px;
+	 color: #000000;
+	 font-family: "Inter";
+	 font-size: 20px;
+	 font-style: normal;
+	 font-weight: 400;
+	 line-height: normal;
+	 opacity: 0.5;
+	 position: absolute;
+	 top: 139px;
+	 left: 124px;
+}
+.t12{
+	width: 24px;
+	height: 24px;
+	background-image: url(../img/icon-star.png);
+	background-size: 100% 100%;
+	position: absolute;
+	top: 139px;
+	left: 186px;
+}
+.t13{
+	 width: 39px;
+	 height: 24px;
+	 color: #000000;
+	 font-family: "Inter";
+	 font-size: 20px;
+	 font-style: normal;
+	 font-weight: 400;
+	 line-height: normal;
+	 opacity: 0.5;
+	 position: absolute;
+	 top: 139px;
+	 left: 217px;
+}
+.t14{
+	width: 24px;
+	height: 24px;
+	background-image: url(../img/icon-share.png);
+	background-size: 100% 100%;
+	position: absolute;
+	top: 141px;
+	left: 275px;
+}
+.t15{
+	width: 40px;
+	height: 24px;
+	 color: #000000;
+	 font-family: "Inter";
+	 font-size: 20px;
+	 font-style: normal;
+	 font-weight: 400;
+	 line-height: normal;
+	 opacity: 0.5;
+	 position: absolute;
+	 top: 138px;
+	 left: 305px;
+}
+.t16{
+	width: 17px;
+	height: 24px;
+	 color: #000000;
+	 font-family: "Inter";
+	 font-size: 20px;
+	 font-style: normal;
+	 font-weight: 400;
+	 line-height: normal;
+	 opacity: 0.5;
+	 position: absolute;
+	 top: 137px;
+	 left: 369px;
+}
+.q{
+	width: 1360px;
+	height: 177px;
+	background-color: white;
+	position: absolute;
+	top: 237px;
+	left: 0px;
+}
+
+.q1{
+	width: 53px;
+	height: 53px;
+	background-image: url(../img/11.png);
+	background-size: 100% 100%;
+}
+
+.q2{
+	color: #000000;
+	font-family: "Inter";
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	position: absolute;
+	left: 77px;
+}
+
+.q3{
+	width: 173px;
+	height: 17px;
+	color: #000000;
+	font-family: "Inter";
+	font-size: 14px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	position: absolute;
+	top: 27px;
+	left: 77px;
+}
+
+.q4{
+	color: #000000;
+	font-family: "Inter";
+	font-size: 25px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	position: absolute;
+	top: 59px;
+}
+
+.q5{
+	width: 484px;
+	height: 38px;
+	position: absolute;
+	top: 95px;
+}
+
+.q5 .q6{
+	color: #000000;
+	font-family: "Inter";
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+
+.q5 .q7{
+	color: #1989fa;
+	font-family: "Inter";
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+
+.q8{
+	width: 24px;
+	height: 24px;
+	background-image: url(../img/dz.png);
+	background-size: 100% 100%;
+	position: absolute;
+	top: 139px;
+}
+
+.q9{
+	width: 40px;
+	color: #1989fa;
+	font-family: "Inter";
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	position: absolute;
+	top: 139px;
+	left: 30px;
+}
+
+.q10{
+	width: 24px;
+	height: 24px;
+	flex-shrink: 0;
+	opacity: 0.5;
+	background-image: url(../img/dx.png);
+	background-size: 100% 100%;
+	position: absolute;
+	top: 141px;
+	left: 94px;
+}
+.q11{
+	 width: 39px;
+	 height: 24px;
+	 color: #000000;
+	 font-family: "Inter";
+	 font-size: 20px;
+	 font-style: normal;
+	 font-weight: 400;
+	 line-height: normal;
+	 opacity: 0.5;
+	 position: absolute;
+	 top: 139px;
+	 left: 124px;
+}
+.q12{
+	width: 24px;
+	height: 24px;
+	background-image: url(../img/icon-star.png);
+	background-size: 100% 100%;
+	position: absolute;
+	top: 139px;
+	left: 186px;
+}
+.q13{
+	 width: 39px;
+	 height: 24px;
+	 color: #000000;
+	 font-family: "Inter";
+	 font-size: 20px;
+	 font-style: normal;
+	 font-weight: 400;
+	 line-height: normal;
+	 opacity: 0.5;
+	 position: absolute;
+	 top: 139px;
+	 left: 217px;
+}
+.q14{
+	width: 24px;
+	height: 24px;
+	background-image: url(../img/icon-share.png);
+	background-size: 100% 100%;
+	position: absolute;
+	top: 141px;
+	left: 275px;
+}
+.q15{
+	width: 40px;
+	height: 24px;
+	 color: #000000;
+	 font-family: "Inter";
+	 font-size: 20px;
+	 font-style: normal;
+	 font-weight: 400;
+	 line-height: normal;
+	 opacity: 0.5;
+	 position: absolute;
+	 top: 138px;
+	 left: 305px;
+}
+.q16{
+	width: 17px;
+	height: 24px;
+	 color: #000000;
+	 font-family: "Inter";
+	 font-size: 20px;
+	 font-style: normal;
+	 font-weight: 400;
+	 line-height: normal;
+	 opacity: 0.5;
+	 position: absolute;
+	 top: 137px;
+	 left: 369px;
+}
+.w {
+	width: 1360px;
+	height: 177px;
+	background-color: white;
+	position: absolute;
+	top: 237px;
+	left: 0px;
+}
+
+.w1 {
+	width: 53px;
+	height: 53px;
+	background-image: url(../img/11.png);
+	background-size: 100% 100%;
+}
+
+.w2 {
+	color: #000000;
+	font-family: "Inter";
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	position: absolute;
+	left: 77px;
+}
+
+.w3 {
+	width: 173px;
+	height: 17px;
+	color: #000000;
+	font-family: "Inter";
+	font-size: 14px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	position: absolute;
+	top: 27px;
+	left: 77px;
+}
+
+.w4 {
+	color: #000000;
+	font-family: "Inter";
+	font-size: 25px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	position: absolute;
+	top: 59px;
+}
+
+.w5 {
+	width: 484px;
+	height: 38px;
+	position: absolute;
+	top: 95px;
+}
+
+.w5 .w6 {
+	color: #000000;
+	font-family: "Inter";
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+
+.w5 .w7 {
+	color: #1989fa;
+	font-family: "Inter";
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+
+.w8 {
+	width: 24px;
+	height: 24px;
+	background-image: url(../img/dz.png);
+	background-size: 100% 100%;
+	position: absolute;
+	top: 139px;
+}
+
+.w9 {
+	width: 40px;
+	color: #1989fa;
+	font-family: "Inter";
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	position: absolute;
+	top: 139px;
+	left: 30px;
+}
+
+.w10 {
+	width: 24px;
+	height: 24px;
+	flex-shrink: 0;
+	opacity: 0.5;
+	background-image: url(../img/dx.png);
+	background-size: 100% 100%;
+	position: absolute;
+	top: 141px;
+	left: 94px;
+}
+.w11{
+	 width: 39px;
+	 height: 24px;
+	 color: #000000;
+	 font-family: "Inter";
+	 font-size: 20px;
+	 font-style: normal;
+	 font-weight: 400;
+	 line-height: normal;
+	 opacity: 0.5;
+	 position: absolute;
+	 top: 139px;
+	 left: 124px;
+}
+.w12{
+	width: 24px;
+	height: 24px;
+	background-image: url(../img/icon-star.png);
+	background-size: 100% 100%;
+	position: absolute;
+	top: 139px;
+	left: 186px;
+}
+.w13{
+	 width: 39px;
+	 height: 24px;
+	 color: #000000;
+	 font-family: "Inter";
+	 font-size: 20px;
+	 font-style: normal;
+	 font-weight: 400;
+	 line-height: normal;
+	 opacity: 0.5;
+	 position: absolute;
+	 top: 139px;
+	 left: 217px;
+}
+.w14{
+	width: 24px;
+	height: 24px;
+	background-image: url(../img/icon-share.png);
+	background-size: 100% 100%;
+	position: absolute;
+	top: 141px;
+	left: 275px;
+}
+.w15{
+	width: 40px;
+	height: 24px;
+	 color: #000000;
+	 font-family: "Inter";
+	 font-size: 20px;
+	 font-style: normal;
+	 font-weight: 400;
+	 line-height: normal;
+	 opacity: 0.5;
+	 position: absolute;
+	 top: 138px;
+	 left: 305px;
+}
+.w16{
+	width: 17px;
+	height: 24px;
+	 color: #000000;
+	 font-family: "Inter";
+	 font-size: 20px;
+	 font-style: normal;
+	 font-weight: 400;
+	 line-height: normal;
+	 opacity: 0.5;
+	 position: absolute;
+	 top: 137px;
+	 left: 369px;
+}
+.e {
+	width: 1360px;
+	height: 177px;
+	background-color: white;
+	position: absolute;
+	top: 237px;
+	left: 0px;
+}
+
+.e1 {
+	width: 53px;
+	height: 53px;
+	background-image: url(../img/11.png);
+	background-size: 100% 100%;
+}
+
+.e2 {
+	color: #000000;
+	font-family: "Inter";
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	position: absolute;
+	left: 77px;
+}
+
+.e3 {
+	width: 173px;
+	height: 17px;
+	color: #000000;
+	font-family: "Inter";
+	font-size: 14px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	position: absolute;
+	top: 27px;
+	left: 77px;
+}
+
+.e4 {
+	color: #000000;
+	font-family: "Inter";
+	font-size: 25px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	position: absolute;
+	top: 59px;
+}
+
+.e5 {
+	width: 484px;
+	height: 38px;
+	position: absolute;
+	top: 95px;
+}
+
+.e5 .e6 {
+	color: #000000;
+	font-family: "Inter";
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+
+.e5 .e7 {
+	color: #1989fa;
+	font-family: "Inter";
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+
+.e8 {
+	width: 24px;
+	height: 24px;
+	background-image: url(../img/dz.png);
+	background-size: 100% 100%;
+	position: absolute;
+	top: 139px;
+}
+
+.e9 {
+	width: 40px;
+	color: #1989fa;
+	font-family: "Inter";
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	position: absolute;
+	top: 139px;
+	left: 30px;
+}
+
+.e10 {
+	width: 24px;
+	height: 24px;
+	flex-shrink: 0;
+	opacity: 0.5;
+	background-image: url(../img/dx.png);
+	background-size: 100% 100%;
+	position: absolute;
+	top: 141px;
+	left: 94px;
+}
+.e11{
+	 width: 39px;
+	 height: 24px;
+	 color: #000000;
+	 font-family: "Inter";
+	 font-size: 20px;
+	 font-style: normal;
+	 font-weight: 400;
+	 line-height: normal;
+	 opacity: 0.5;
+	 position: absolute;
+	 top: 139px;
+	 left: 124px;
+}
+.e12{
+	width: 24px;
+	height: 24px;
+	background-image: url(../img/icon-star.png);
+	background-size: 100% 100%;
+	position: absolute;
+	top: 139px;
+	left: 186px;
+}
+.e13{
+	 width: 39px;
+	 height: 24px;
+	 color: #000000;
+	 font-family: "Inter";
+	 font-size: 20px;
+	 font-style: normal;
+	 font-weight: 400;
+	 line-height: normal;
+	 opacity: 0.5;
+	 position: absolute;
+	 top: 139px;
+	 left: 217px;
+}
+.e14{
+	width: 24px;
+	height: 24px;
+	background-image: url(../img/icon-share.png);
+	background-size: 100% 100%;
+	position: absolute;
+	top: 141px;
+	left: 275px;
+}
+.e15{
+	width: 40px;
+	height: 24px;
+	 color: #000000;
+	 font-family: "Inter";
+	 font-size: 20px;
+	 font-style: normal;
+	 font-weight: 400;
+	 line-height: normal;
+	 opacity: 0.5;
+	 position: absolute;
+	 top: 138px;
+	 left: 305px;
+}
+.e16{
+	width: 17px;
+	height: 24px;
+	 color: #000000;
+	 font-family: "Inter";
+	 font-size: 20px;
+	 font-style: normal;
+	 font-weight: 400;
+	 line-height: normal;
+	 opacity: 0.5;
+	 position: absolute;
+	 top: 137px;
+	 left: 369px;
+}
+.r {
+	width: 1360px;
+	height: 177px;
+	background-color: white;
+	position: absolute;
+	top: 237px;
+	left: 0px;
+}
+
+.r1 {
+	width: 53px;
+	height: 53px;
+	background-image: url(../img/11.png);
+	background-size: 100% 100%;
+}
+
+.r2 {
+	color: #000000;
+	font-family: "Inter";
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	position: absolute;
+	left: 77px;
+}
+
+.r3 {
+	width: 173px;
+	height: 17px;
+	color: #000000;
+	font-family: "Inter";
+	font-size: 14px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	position: absolute;
+	top: 27px;
+	left: 77px;
+}
+
+.r4 {
+	color: #000000;
+	font-family: "Inter";
+	font-size: 25px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	position: absolute;
+	top: 59px;
+}
+
+.r5 {
+	width: 484px;
+	height: 38px;
+	position: absolute;
+	top: 95px;
+}
+
+.r5 .r6 {
+	color: #000000;
+	font-family: "Inter";
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+
+.r5 .r7 {
+	color: #1989fa;
+	font-family: "Inter";
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+
+.r8 {
+	width: 24px;
+	height: 24px;
+	background-image: url(../img/dz.png);
+	background-size: 100% 100%;
+	position: absolute;
+	top: 139px;
+}
+
+.r9 {
+	width: 40px;
+	color: #1989fa;
+	font-family: "Inter";
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	position: absolute;
+	top: 139px;
+	left: 30px;
+}
+
+.r10 {
+	width: 24px;
+	height: 24px;
+	flex-shrink: 0;
+	opacity: 0.5;
+	background-image: url(../img/dx.png);
+	background-size: 100% 100%;
+	position: absolute;
+	top: 141px;
+	left: 94px;
+}
+.r11{
+	 width: 39px;
+	 height: 24px;
+	 color: #000000;
+	 font-family: "Inter";
+	 font-size: 20px;
+	 font-style: normal;
+	 font-weight: 400;
+	 line-height: normal;
+	 opacity: 0.5;
+	 position: absolute;
+	 top: 139px;
+	 left: 124px;
+}
+.r12{
+	width: 24px;
+	height: 24px;
+	background-image: url(../img/icon-star.png);
+	background-size: 100% 100%;
+	position: absolute;
+	top: 139px;
+	left: 186px;
+}
+.r13{
+	 width: 39px;
+	 height: 24px;
+	 color: #000000;
+	 font-family: "Inter";
+	 font-size: 20px;
+	 font-style: normal;
+	 font-weight: 400;
+	 line-height: normal;
+	 opacity: 0.5;
+	 position: absolute;
+	 top: 139px;
+	 left: 217px;
+}
+.r14{
+	width: 24px;
+	height: 24px;
+	background-image: url(../img/icon-share.png);
+	background-size: 100% 100%;
+	position: absolute;
+	top: 141px;
+	left: 275px;
+}
+.r15{
+	width: 40px;
+	height: 24px;
+	 color: #000000;
+	 font-family: "Inter";
+	 font-size: 20px;
+	 font-style: normal;
+	 font-weight: 400;
+	 line-height: normal;
+	 opacity: 0.5;
+	 position: absolute;
+	 top: 138px;
+	 left: 305px;
+}
+.r16{
+	width: 17px;
+	height: 24px;
+	 color: #000000;
+	 font-family: "Inter";
+	 font-size: 20px;
+	 font-style: normal;
+	 font-weight: 400;
+	 line-height: normal;
+	 opacity: 0.5;
+	 position: absolute;
+	 top: 137px;
+	 left: 369px;
+}
+.k{
+	width: 465.97px;
+	height: 32px;
+	background-color: aliceblue;
+	position: absolute;
+	top: 320px;
+	left: 459px;
+}
+.k1{
+	width: 32.97px;
+	height: 32px;
+	background-color: #EDEDED;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+.k11{
+	width: 20.63px;
+	height: 20px;
+	background-color: #EDEDED;
+	position: absolute;
+	top: 6px;
+	left: 6.17px;
+	text-align: center;
+	font-size: 17px;
+	font-weight: bold;
+	line-height: 20px;
+}
+.k2{
+	width: 32px;
+	height: 32px;
+	background-color: #EDEDED;
+	position: absolute;
+	left: 49px;
+	color: #1989fa;
+	text-align: center;
+	vertical-align: 50%;
+	font-family: "Inter";
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 30px;
+}
+.k3{
+	width: 32px;
+	height: 32px;
+	background-color: #EDEDED;
+	position: absolute;
+	left: 97px;
+	color: #000000;
+	text-align: center;
+	font-family: "Inter";
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 30px;
+}
+.k4{
+	width: 32px;
+	height: 32px;
+	background-color: #EDEDED;
+	position: absolute;
+	left: 145px;
+	color: #000000;
+	text-align: center;
+	font-family: "Inter";
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 30px;
+}
+.k5{
+	width: 32px;
+	height: 32px;
+	background-color: #EDEDED;
+	position: absolute;
+	left: 193px;
+	color: #000000;
+	text-align: center;
+	font-family: "Inter";
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 30px;
+}
+.k6{
+	width: 32px;
+	height: 32px;
+	background-color: #EDEDED;
+	position: absolute;
+	left: 241px;
+	color: #000000;
+	text-align: center;
+	font-family: "Inter";
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 30px;
+}
+.k7{
+	width: 32px;
+	height: 32px;
+	background-color: #EDEDED;
+	position: absolute;
+	left: 289px;
+	color: #000000;
+	text-align: center;
+	font-family: "Inter";
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 30px;
+}
+.k8{
+	width: 32px;
+	height: 32px;
+	background-color: #EDEDED;
+	position: absolute;
+	left: 336px;
+	color: #000000;
+	text-align: center;
+	font-family: "Inter";
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	opacity: 0.5;
+}
+.k9{
+	width: 32px;
+	height: 32px;
+	background-color: #EDEDED;
+	position: absolute;
+	left: 385px;
+	color: #000000;
+	text-align: center;
+	font-family: "Inter";
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 30px;
+}
+.k10{
+	width: 32.97px;
+	height: 32px;
+	background-color: #EDEDED;
+	position: absolute;
+	left: 433px;
+}
+.k12{
+	width: 20.63px;
+	height: 20px;
+	background-color: #EDEDED;
+	position: absolute;
+	top: 6px;
+	left: 6.17px;
+	text-align: center;
+	font-size: 17px;
+	font-weight: bold;
+	line-height: 20px;
+}
+.photo{
+	width: 1798px;
+	height: 495px;
+	background-color: #F0F0F0;
+	position: absolute;
+	top: 666px;
+	left: -231px;
+}
+.picture2{
+	width: 1383px;
+	height: 495px;
+	background-image: url(../img/背景.png);
+	background-size: 100% 100%;
+	position: absolute;
+	left: 208px;
+}
+.f1{
+	width: 180px;
+	height: 54px;
+	color: #ffffff;
+	font-family: "Inter";
+	font-size: 45px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	position: absolute;
+	top: 84px;
+	left: 809px;
+}
+.f2{
+	width: 1111px;
+	height: 181px;
+	display: flex;
+	width: 1111px;
+	justify-content: center;
+	align-items: center;
+	gap: 66px;
+	position: absolute;
+	top: 157px;
+	left: 344px;
+}
+.f3{
+	width: 97px;
+	height: 97px;
+	background-image: url(../img/图标1.png);
+	background-size: 100% 100%;
+	position: absolute;
+	top: 29px;
+	left: 158.5px;
+}
+.f4{
+	color: #ffffff;
+	font-family: "Inter";
+	font-size: 25px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	position: absolute;
+	top: 143px;
+	left: 157.5px;
+}
+.f5{
+	width: 97px;
+	height: 97px;
+	background-image: url(../img/图标2.png);
+	background-size: 100% 100%;
+	position: absolute;
+	top: 29px;
+	left: 390.5px;
+}
+.f6{
+	color: #ffffff;
+	font-family: "Inter";
+	font-size: 25px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	position: absolute;
+	top: 143px;
+	left: 389.5px;
+}
+.f7{
+	width: 97px;
+	height: 97px;
+	background-image: url(../img/图标3.png);
+	background-size: 100% 100%;
+	position: absolute;
+	top: 29px;
+	left: 622.5px;
+}
+.f8{
+	color: #ffffff;
+	font-family: "Inter";
+	font-size: 25px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	position: absolute;
+	top: 143px;
+	left: 621.5px;
+}
+.f9{
+	width: 97px;
+	height: 97px;
+	background-image: url(../img/图标4.png);
+	background-size: 100% 100%;
+	position: absolute;
+	top: 29px;
+	left: 854.5px;
+}
+.f10{
+	color: #ffffff;
+	font-family: "Inter";
+	font-size: 25px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	position: absolute;
+	top: 143px;
+	left: 853.5px;
+}
+.zd{
+	width: 52px;
+	height: 52px;
+	background-image: url(../img/置顶.png);
+	background-size: 100% 100%;
+	position: absolute;
+	top: 435px;
+	left: 1746.5px;
+}
+.footer{
+	width: 1800px;
+	height: 227px;
+	background-color: #0B1E28;
+	position: absolute;
+	top: 1200px;
+	left: -233px;
+}
+.ff1{
+	width: 66px;
+	height: 59px;
+	background-image: url(../img/南昌大学图标.png);
+	background-size: 100% 100%;
+	position: absolute;
+	top: 84px;
+	left: 203px;
+}
+.ff2{
+	color: #ffffff;
+	font-family: "Inter";
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	position: absolute;
+	top: 82px;
+	left: 306px;
+}
+.ff2:hover{
+	color: #1989fa;
+	text-decoration: underline;
+}
+.ff3{
+	color: #ffffff;
+	font-family: "Inter";
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	position: absolute;
+	top: 82px;
+	left: 405px;
+}
+.ff3:hover{
+	color: #1989fa;
+	text-decoration: underline;
+}
+.ff4{
+	color: #ffffff;
+	font-family: "Inter";
+	font-size: 16px;
+	font-style: normal;
+	ont-weight: 400;
+	line-height: normal;
+	position: absolute;
+	top: 124px;
+	left: 306px;
+}
